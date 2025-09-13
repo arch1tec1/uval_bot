@@ -44,4 +44,4 @@ COMMAND_KEYWORDS = {"спорт", "офиска", "гражданка", "спи�
 NAMESAKES = {'кузнецов', 'якунин'}
 
 # Telegram Bot Token
-BOT_TOKEN = "example:bot_token"
+BOT_TOKEN = "example_bot_token"
